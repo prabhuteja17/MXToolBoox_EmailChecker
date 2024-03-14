@@ -64,7 +64,7 @@ def save_results_to_excel(results, output_folder):
 def main():
     excel_file_path = "domains.xlsx"  # Change this to your Excel file path
     output_folder = "results"  # Output folder name
-    api_key = "c314f486-0569-4b21-87a6-5a04d8d24a75"  # Replace "Your-API-Key" with your actual API key
+    api_key = "Your-API-Key"  # Replace "Your-API-Key" with your actual API key
 
     domains = read_domains_from_excel(excel_file_path)
     if domains:
