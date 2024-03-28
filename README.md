@@ -6,7 +6,8 @@ This script is designed to check the MX (Mail Exchange) records for a list of do
 ## Prerequisites 
 Python 3 requests library (install via pip install requests) pandas library (install via pip install pandas) openpyxl library (install via pip install openpyxl) colorama library (install via pip install colorama) 
 
-## Usage Clone the repository: bash Copy code git clone https://github.com/your_username/mxtoolbox-email-checker.git 
+## Usage Clone the repository: bash Copy code 
+git clone https://github.com/your_username/mxtoolbox-email-checker.git 
 
 ## Navigate to the project directory: bash Copy code cd mxtoolbox-email-checker 
 
